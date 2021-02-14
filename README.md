@@ -2,7 +2,7 @@
 
 When I watched the Queen's Gambit, I loved it instantly. I saw this awesome article in hackernoon and start it right away with amped-up :smile:
 
-This awesome article is [The Coder's Gambit: Create a Chess Game with React and Chessboardjsx](https://hackernoon.com/the-coders-gambit-create-a-chess-game-with-react-and-chessboardjsx-za2z31oc).
+The awesome article is [The Coder's Gambit: Create a Chess Game with React and Chessboardjsx](https://hackernoon.com/the-coders-gambit-create-a-chess-game-with-react-and-chessboardjsx-za2z31oc).
 
 ## Available Scripts
 
